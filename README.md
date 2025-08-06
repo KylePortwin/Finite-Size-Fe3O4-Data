@@ -10,12 +10,12 @@ This repository contains the raw and processed data associated with the manuscri
 ## 📂 Repository Structure
 
 data/
-  exp_Sqw/ # Experimental inelastic neutron scattering data: S(Q, ω) maps
-  exp_DOS/ # Experimental density of states extracted from INS
-  phonon_calc/ # Phonon calculations (DFT or MD)
-  magnon_calc/ # Magnon calculations (SpinW / linear spin-wave theory)
-  synchrotron_PD/ # Synchrotron powder diffraction data
-  magnetometry/ # Magnetization, ZFC/FC, hysteresis loop data
+> exp_Sqw/ # Experimental inelastic neutron scattering data: S(Q, ω) maps
+> exp_DOS/ # Experimental density of states extracted from INS
+> phonon_calc/ # Phonon calculations (DFT or MD)
+> magnon_calc/ # Magnon calculations (SpinW / linear spin-wave theory)
+> synchrotron_PD/ # Synchrotron powder diffraction data
+> magnetometry/ # Magnetization, ZFC/FC, hysteresis loop data
 
   ---
 
@@ -36,7 +36,7 @@ If you use this data, please cite:
 
 > [K. A. Portwin], *Confinement-Driven Renormalization of Magnon and Phonon Spectra in Fe₃O₄ Nanoparticles*, Phys. Rev. Lett. (2025).  
 > DOI: [To be added after acceptance]  
-> Data repository: [GitHub URL]
+> Data repository: https://github.com/KylePortwin/Finite-Size-Fe3O4-Data
 
 ---
 
