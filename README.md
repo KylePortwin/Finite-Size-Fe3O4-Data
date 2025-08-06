@@ -10,11 +10,17 @@ This repository contains the raw and processed data associated with the manuscri
 ## 📂 Repository Structure
 
 data/
+
 ├── exp_Sqw/ # Experimental inelastic neutron scattering data (S(Q, ω) maps)
+
 ├── exp_DOS/ # Experimental density of states extracted from INS
+
 ├── phonon_calc/ # Phonon calculations (DFT or MD)
+
 ├── magnon_calc/ # Magnon calculations (SpinW / linear spin-wave theory)
+
 ├── synchrotron_PD/ # Synchrotron powder diffraction data
+
 └── magnetometry/ # Magnetization data (ZFC/FC, hysteresis loops)
 
   ---
